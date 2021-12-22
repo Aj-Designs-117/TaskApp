@@ -4,4 +4,3 @@
 
 - Tema: Aplicacion de Tareas con localStorage
 - Aj&Designs
-- Ing. Mecatronico y diseñador Web
